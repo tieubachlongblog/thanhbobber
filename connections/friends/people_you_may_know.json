@@ -1,0 +1,403 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Friend suggestions",
+      "vec": [
+        {
+          "value": "Nguy\u00e1\u00bb\u0085n Thanh Tu\u00e1\u00ba\u00a5n"
+        },
+        {
+          "value": "B\u00c3\u00acnh Minh Nguy\u00e1\u00bb\u0085n"
+        },
+        {
+          "value": "T\u00c3\u00a1 \u00c4\u0090\u00e1\u00bb\u0097"
+        },
+        {
+          "value": "Nam Nguyen"
+        },
+        {
+          "value": "L\u00e1\u00bb\u0097 V\u00c5\u00a9"
+        },
+        {
+          "value": "Chi Vu"
+        },
+        {
+          "value": "\u00c4\u0090\u00c3\u00acnh H\u00e1\u00ba\u00adu"
+        },
+        {
+          "value": "Mike Tr\u00e1\u00ba\u00a7n"
+        },
+        {
+          "value": "Lieu Nguyen"
+        },
+        {
+          "value": "Vi\u00e1\u00bb\u0087t Anh"
+        },
+        {
+          "value": "Huyen Quach"
+        },
+        {
+          "value": "Ki\u00e1\u00bb\u0081u Tr\u00e1\u00bb\u008dng T\u00c3\u00ba"
+        },
+        {
+          "value": "Nguyen Truong Son"
+        },
+        {
+          "value": "Ngoc Tran"
+        },
+        {
+          "value": "Tr\u00c3\u00a2m T\u00e1\u00ba\u00a1"
+        },
+        {
+          "value": "Madeleine Cao"
+        },
+        {
+          "value": "Ph\u00e1\u00ba\u00a1m V\u00c3\u00a2n Anh"
+        },
+        {
+          "value": "Tien Hai"
+        },
+        {
+          "value": "Vu Thanh Hai"
+        },
+        {
+          "value": "Le Khanh Ly"
+        },
+        {
+          "value": "Tuan Anh Nguyen"
+        },
+        {
+          "value": "Kh\u00c3\u00a1nhh Linhh"
+        },
+        {
+          "value": "Nguy\u00e1\u00bb\u0085n Ho\u00c3\u00a0ng Minh Ng\u00e1\u00bb\u008dc"
+        },
+        {
+          "value": "Huan Vo"
+        },
+        {
+          "value": "T\u00e1\u00ba\u00a1 Qu\u00e1\u00bb\u0091c Ch\u00c3\u00adnh"
+        },
+        {
+          "value": "Hoa Hoa"
+        },
+        {
+          "value": "Grace L\u00c3\u00aa"
+        },
+        {
+          "value": "Tr\u00e1\u00ba\u00a7n C\u00c6\u00b0\u00e1\u00bb\u009dng"
+        },
+        {
+          "value": "Quoc Nguyen"
+        },
+        {
+          "value": "Hi\u00e1\u00ba\u00bfu L\u00c6\u00b0u Tr\u00e1\u00bb\u008dng"
+        },
+        {
+          "value": "Trung Kien Nguyen"
+        },
+        {
+          "value": "D\u00c6\u00b0\u00c6\u00a1ng H\u00c6\u00b0\u00c6\u00a1ng Th\u00e1\u00ba\u00a3o"
+        },
+        {
+          "value": "H\u00c3\u00a2n Ph\u00e1\u00ba\u00a1m Sport"
+        },
+        {
+          "value": "Ph\u00c3\u00b9ng L\u00c3\u00aa S\u00c6\u00a1n H\u00e1\u00ba\u00a3i"
+        },
+        {
+          "value": "Nguy\u00e1\u00bb\u0085n Vi\u00e1\u00ba\u00bft Th\u00e1\u00ba\u00afng"
+        },
+        {
+          "value": "H\u00c6\u00b0\u00c6\u00a1ng Tagom"
+        },
+        {
+          "value": "Nguy\u00e1\u00bb\u0085n Chi\u00e1\u00ba\u00bfn"
+        },
+        {
+          "value": "Vi Phan Anh"
+        },
+        {
+          "value": "Viet Long"
+        },
+        {
+          "value": "L\u00c3\u00aa Ng\u00e1\u00bb\u008dc Hi\u00e1\u00ba\u00bfu"
+        },
+        {
+          "value": "H\u00c3\u00b9ng V\u00c5\u00a9"
+        },
+        {
+          "value": "Hoang Nguyen"
+        },
+        {
+          "value": "Huy Nguyen"
+        },
+        {
+          "value": "Tr\u00c3\u00a0 B\u00c3\u00b4"
+        },
+        {
+          "value": "Ph\u00c6\u00b0\u00c6\u00a1ng Ng\u00c3\u00a2n"
+        },
+        {
+          "value": "Thanh Thu V\u00c5\u00a9"
+        },
+        {
+          "value": "Nguy\u00e1\u00bb\u0085n Kh\u00e1\u00ba\u00afc Thi\u00e1\u00bb\u0087u"
+        },
+        {
+          "value": "Ph\u00c3\u00bac Tr\u00e1\u00ba\u00a7n"
+        },
+        {
+          "value": "L\u00c3\u00aa V\u00c4\u0083n H\u00c6\u00b0ng"
+        },
+        {
+          "value": "Nguy\u00e1\u00bb\u0085n Ng\u00e1\u00bb\u008dc Ph\u00c6\u00b0\u00c6\u00a1ng Linh"
+        },
+        {
+          "value": "Tu\u00e1\u00ba\u00a5n Bi"
+        },
+        {
+          "value": "H\u00e1\u00bb\u0093ng H\u00e1\u00ba\u00a1nh Nguy\u00e1\u00bb\u0085n"
+        },
+        {
+          "value": "Nguy\u00e1\u00bb\u0085n Tr\u00e1\u00bb\u008dng Th\u00c6\u00a1"
+        },
+        {
+          "value": "D\u00c6\u00b0\u00c6\u00a1ng \u00c4\u0090\u00c3\u00acnh Ki\u00c3\u00aan"
+        },
+        {
+          "value": "B\u00c3\u00b9i V\u00c4\u0083n Qu\u00c3\u00a2n"
+        },
+        {
+          "value": "V\u00c3\u00b5 Ho\u00c3\u00a0i"
+        },
+        {
+          "value": "Haiyen Doan"
+        },
+        {
+          "value": "Ho\u00c3\u00a0ng Tr\u00c6\u00b0\u00e1\u00bb\u009dng Giang"
+        },
+        {
+          "value": "Nguy\u00e1\u00bb\u0085n T\u00c3\u00ba"
+        },
+        {
+          "value": "Nguyen Thanh Tan"
+        },
+        {
+          "value": "Ph\u00e1\u00ba\u00a1m Ti\u00e1\u00ba\u00bfn Th\u00c3\u00a0nh"
+        },
+        {
+          "value": "Ph\u00e1\u00ba\u00a1m \u00c4\u0090\u00c4\u0083ng \u00c4\u0090\u00e1\u00bb\u008bnh"
+        },
+        {
+          "value": "T\u00c3\u00a2m Phan Minh"
+        },
+        {
+          "value": "Tr\u00c6\u00b0\u00c6\u00a1ng V\u00c4\u0083n \u00c4\u0090\u00e1\u00ba\u00a1t"
+        },
+        {
+          "value": "Son Nhung"
+        },
+        {
+          "value": "Phong Local"
+        },
+        {
+          "value": "\u00c4\u0090i\u00e1\u00bb\u0087p Vi"
+        },
+        {
+          "value": "Y Th\u00c6\u00a1 D\u00c6\u00b0\u00c6\u00a1ng"
+        },
+        {
+          "value": "\u00c4\u0090\u00c3\u00a0m Minh Th\u00e1\u00bb\u00a5y"
+        },
+        {
+          "value": "Tuan Ema"
+        },
+        {
+          "value": "T\u00e1\u00ba\u00a5n T\u00c3\u00a0i"
+        },
+        {
+          "value": "C\u00e1\u00bb\u00a7 C\u00e1\u00ba\u00a3m H\u00c3\u00b3a"
+        },
+        {
+          "value": "Chew Chew"
+        },
+        {
+          "value": "Diep Nguyen"
+        },
+        {
+          "value": "L\u00c3\u00aa Chi"
+        },
+        {
+          "value": "T\u00e1\u00ba\u00a1 Qu\u00e1\u00bb\u0091c Tu\u00e1\u00ba\u00a5n Anh"
+        },
+        {
+          "value": "Hung Cuong Nguyen"
+        },
+        {
+          "value": "Nam V\u00c4\u00a9nh"
+        },
+        {
+          "value": "An Nhi\u00c3\u00aan"
+        },
+        {
+          "value": "Ho\u00c3\u00a0ng Nguy\u00e1\u00bb\u0085n"
+        },
+        {
+          "value": "Ph\u00e1\u00ba\u00a1m Ng\u00e1\u00bb\u008dc Nam"
+        },
+        {
+          "value": "L\u00c3\u00aa M\u00e1\u00ba\u00a1nh Chung"
+        },
+        {
+          "value": "L\u00c3\u00aa Qu\u00c3\u00a2n"
+        },
+        {
+          "value": "Cu Tu\u00e1\u00ba\u00a5n"
+        },
+        {
+          "value": "L\u00c6\u00b0u Thi\u00e1\u00bb\u0087n \u00c3\u0082n"
+        },
+        {
+          "value": "Tr\u00e1\u00ba\u00a7n L\u00c3\u00a2m"
+        },
+        {
+          "value": "Trang B\u00c3\u00b4ng"
+        },
+        {
+          "value": "V\u00c5\u00a9 Mai Anh"
+        },
+        {
+          "value": "Nguy\u00e1\u00bb\u0085n Cao C\u00c6\u00b0\u00e1\u00bb\u009dng"
+        },
+        {
+          "value": "Hoang Vuong"
+        },
+        {
+          "value": "Khoai Lang"
+        },
+        {
+          "value": "Th\u00c3\u00a0nh L\u00c3\u00aa"
+        },
+        {
+          "value": "\u00e6\u00b8\u00a9\u00e9\u0098\u00b3\u00e7\u009f\u00b3"
+        },
+        {
+          "value": "Nam Doan Mmo"
+        },
+        {
+          "value": "Ph\u00e1\u00ba\u00a1m H\u00c3\u00b9ng Th\u00e1\u00ba\u00afng"
+        },
+        {
+          "value": "Stephen D\u00c5\u00a9ng D\u00c6\u00b0\u00c6\u00a1ng"
+        },
+        {
+          "value": "Hu\u00c3\u00a2n \u00c4\u0090o\u00c3\u00a0n"
+        },
+        {
+          "value": "Tr\u00e1\u00ba\u00a7n V\u00c4\u0083n B\u00e1\u00ba\u00a3o"
+        },
+        {
+          "value": "\u00c4\u0090o\u00c3\u00a0n H\u00e1\u00ba\u00b1ng Nga"
+        },
+        {
+          "value": "Nguy\u00e1\u00bb\u0085n T\u00e1\u00bb\u0091 Uy\u00c3\u00aan"
+        },
+        {
+          "value": "Kh\u00e1\u00bb\u0095ng Ng\u00e1\u00bb\u008dc Ho\u00c3\u00a0ng"
+        },
+        {
+          "value": "Raymond Tr\u00c3\u00acnh"
+        },
+        {
+          "value": "Ho\u00c3\u00a0ng Tr\u00c6\u00b0\u00e1\u00bb\u009dng"
+        },
+        {
+          "value": "Hoang Ngoc Duy"
+        },
+        {
+          "value": "Nguy\u00e1\u00bb\u0085n Trung T\u00e1\u00bb\u00b1"
+        },
+        {
+          "value": "Tu\u00e1\u00ba\u00a5n \u00c4\u0090\u00e1\u00bb\u00a9c"
+        },
+        {
+          "value": "Thanh L\u00c3\u00a2m"
+        },
+        {
+          "value": "Hoang Vuong Hoang"
+        },
+        {
+          "value": "Dang Tran Viet"
+        },
+        {
+          "value": "Tu\u00e1\u00ba\u00a5n Evo"
+        },
+        {
+          "value": "V\u00c4\u0083n D\u00c5\u00a9ng"
+        },
+        {
+          "value": "Nguy\u00e1\u00bb\u0085n Th\u00c3\u00a0nh Chung"
+        },
+        {
+          "value": "Duy Nguyen"
+        },
+        {
+          "value": "Th\u00e1\u00ba\u00a1ch Ph\u00e1\u00ba\u00a1m"
+        },
+        {
+          "value": "Ho\u00c3\u00a0ng Thu H\u00c3\u00a0"
+        },
+        {
+          "value": "Hang Pham"
+        },
+        {
+          "value": "Tu\u00e1\u00ba\u00a5n Ph\u00e1\u00ba\u00a1m"
+        },
+        {
+          "value": "Nguy\u00e1\u00bb\u0085n Qu\u00e1\u00bb\u00b3nh H\u00c6\u00b0\u00c6\u00a1ng"
+        },
+        {
+          "value": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c D\u00c6\u00b0\u00c6\u00a1ng"
+        },
+        {
+          "value": "Huy\u00e1\u00bb\u0081n My"
+        },
+        {
+          "value": "L\u00c6\u00b0\u00c6\u00a1ng Xu\u00c3\u00a2n Th\u00e1\u00ba\u00afng"
+        },
+        {
+          "value": "Qu\u00c3\u00a2n Minh Ho\u00c3\u00a0ng"
+        },
+        {
+          "value": "Thieu Hoang"
+        },
+        {
+          "value": "Vu Minh Trang"
+        },
+        {
+          "value": "Trangthu Tran"
+        },
+        {
+          "value": "Tr\u00e1\u00bb\u00a3 L\u00c3\u00bd S\u00e1\u00ba\u00bfp Thu\u00e1\u00bb\u00b7"
+        },
+        {
+          "value": "L\u00c3\u00aa B\u00c3\u00acnh"
+        },
+        {
+          "value": "Jomo H\u00e1\u00ba\u00a3i Ph\u00c3\u00b2ng"
+        },
+        {
+          "value": "Ng\u00c3\u00b4 Long"
+        },
+        {
+          "value": "Pham Ha Thu"
+        }
+      ]
+    }
+  ],
+  "fbid": "128402080909972"
+}

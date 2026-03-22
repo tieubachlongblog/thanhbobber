@@ -1,0 +1,564 @@
+{
+  "friends_v2": [
+    {
+      "name": "\u00c4\u0090inh Ng\u00e1\u00bb\u008dc Thi\u00e1\u00bb\u0087n",
+      "timestamp": 1772926883
+    },
+    {
+      "name": "Ho\u00c3\u00a0ng Anh Khoa",
+      "timestamp": 1772759918
+    },
+    {
+      "name": "L\u00c3\u00aa Th\u00e1\u00ba\u00bf T\u00c6\u00b0",
+      "timestamp": 1772348856
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n Ph\u00c6\u00b0\u00c6\u00a1ng",
+      "timestamp": 1772325737
+    },
+    {
+      "name": "Duy Nguyen",
+      "timestamp": 1771817508
+    },
+    {
+      "name": "Binh Chien Bui",
+      "timestamp": 1771204605
+    },
+    {
+      "name": "Ph\u00c6\u00b0\u00c6\u00a1ng B\u00e1\u00ba\u00a3o H\u00c3\u00a2n",
+      "timestamp": 1771077988
+    },
+    {
+      "name": "H\u00c3\u00a0 L\u00c3\u00aa",
+      "timestamp": 1770993052
+    },
+    {
+      "name": "Princess Quynh Nga",
+      "timestamp": 1770812875
+    },
+    {
+      "name": "Tr\u00c6\u00b0\u00c6\u00a1ng Qu\u00e1\u00bb\u00b3nh Giang",
+      "timestamp": 1770515685
+    },
+    {
+      "name": "B\u00c3\u00acnh Gi\u00e1\u00ba\u00a5y",
+      "timestamp": 1770345389
+    },
+    {
+      "name": "Cao Thu H\u00c3\u00a0",
+      "timestamp": 1770096837
+    },
+    {
+      "name": "Dat Nguyen AI",
+      "timestamp": 1770081067
+    },
+    {
+      "name": "\u00c4\u0090g Hoang Quyen",
+      "timestamp": 1770034867
+    },
+    {
+      "name": "nguy\u00e1\u00bb\u0085n ng\u00e1\u00bb\u008dc th\u00e1\u00ba\u00afng",
+      "timestamp": 1770018934
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n Ng\u00e1\u00bb\u008dc Long",
+      "timestamp": 1769933910
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n V\u00c4\u0083n Ng\u00e1\u00bb\u008dc",
+      "timestamp": 1769758193
+    },
+    {
+      "name": "Tr\u00e1\u00ba\u00a7n Nh\u00c3\u00a2n",
+      "timestamp": 1769702112
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n Ho\u00c3\u00a0i",
+      "timestamp": 1769661975
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n Quang Th\u00c3\u00a0nh",
+      "timestamp": 1769660761
+    },
+    {
+      "name": "S\u00e1\u00bb\u00b9 Qu\u00c3\u00bd",
+      "timestamp": 1769483923
+    },
+    {
+      "name": "Tu\u00e1\u00ba\u00a5n Ank",
+      "timestamp": 1769421697
+    },
+    {
+      "name": "L\u00e1\u00ba\u00a1i Th\u00e1\u00ba\u00bf H\u00e1\u00ba\u00adu",
+      "timestamp": 1769094063
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n Minh Ph\u00c3\u00bac",
+      "timestamp": 1769058838
+    },
+    {
+      "name": "M\u00c3\u00a2y",
+      "timestamp": 1769058837
+    },
+    {
+      "name": "Tr\u00e1\u00ba\u00a7n Ng\u00e1\u00bb\u008dc Th\u00c3\u00b9y",
+      "timestamp": 1769058835
+    },
+    {
+      "name": "Thuy Doan",
+      "timestamp": 1769058829
+    },
+    {
+      "name": "V\u00c5\u00a9 Th\u00c3\u00b9y Linh",
+      "timestamp": 1769058826
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n Th\u00e1\u00bb\u008b Ng\u00e1\u00bb\u008dc T\u00e1\u00bb\u008bnh",
+      "timestamp": 1768998517
+    },
+    {
+      "name": "L\u00c3\u00aa T\u00e1\u00ba\u00a5n Sang",
+      "timestamp": 1768987000
+    },
+    {
+      "name": "T\u00c3\u00a2m Ph\u00e1\u00ba\u00a1m",
+      "timestamp": 1768808235
+    },
+    {
+      "name": "Tr\u00e1\u00ba\u00a7n Ng\u00e1\u00bb\u008dc Tu\u00c3\u00a2n",
+      "timestamp": 1768627972
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n Th\u00c3\u00acn",
+      "timestamp": 1768610186
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n Tr\u00c3\u00a2m",
+      "timestamp": 1768567649
+    },
+    {
+      "name": "Tr\u00e1\u00ba\u00a7n V\u00c4\u0083n H\u00c6\u00b0ng",
+      "timestamp": 1768567639
+    },
+    {
+      "name": "Th\u00c3\u00a1i V\u00c3\u00b5",
+      "timestamp": 1768543421
+    },
+    {
+      "name": "Ho\u00c3\u00a0ng Huy",
+      "timestamp": 1768540950
+    },
+    {
+      "name": "Thanh",
+      "timestamp": 1768537781
+    },
+    {
+      "name": "Phan L\u00e1\u00bb\u00b1c",
+      "timestamp": 1768534469
+    },
+    {
+      "name": "Tr\u00e1\u00ba\u00a7n Ng\u00e1\u00bb\u008dc H\u00c3\u00a0o",
+      "timestamp": 1768533260
+    },
+    {
+      "name": "C\u00e1\u00bb\u0093 Thanh H\u00c6\u00b0\u00c6\u00a1ng",
+      "timestamp": 1768463856
+    },
+    {
+      "name": "Minh Hoang",
+      "timestamp": 1768284161
+    },
+    {
+      "name": "\u00c4\u0090inh Vi\u00e1\u00bb\u0087t H\u00c6\u00b0ng",
+      "timestamp": 1768195700
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n V\u00c4\u0083n \u00c4\u0090\u00e1\u00bb\u008bnh",
+      "timestamp": 1767952236
+    },
+    {
+      "name": "Kim Anh",
+      "timestamp": 1767677710
+    },
+    {
+      "name": "Loan Nguy\u00e1\u00bb\u0085n",
+      "timestamp": 1767360051
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n Th\u00e1\u00bb\u008b Thanh Nga",
+      "timestamp": 1767107098
+    },
+    {
+      "name": "Quang Ti\u00e1\u00bb\u0081m",
+      "timestamp": 1767107074
+    },
+    {
+      "name": "Tuy\u00e1\u00bb\u0081n An",
+      "timestamp": 1766976855
+    },
+    {
+      "name": "\u00c4\u0090\u00e1\u00bb\u00a9c Th\u00c3\u00a0nh",
+      "timestamp": 1766973747
+    },
+    {
+      "name": "AnhVu H\u00e1\u00ba\u00a1 Long",
+      "timestamp": 1766890019
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n Vi\u00e1\u00bb\u0087t C\u00c6\u00b0\u00e1\u00bb\u009dng",
+      "timestamp": 1765899820
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n Anh Qu\u00c3\u00a2n",
+      "timestamp": 1765601658
+    },
+    {
+      "name": "V\u00c3\u00a2n Nguy\u00e1\u00bb\u0085n",
+      "timestamp": 1765415420
+    },
+    {
+      "name": "Lily Tran",
+      "timestamp": 1765349856
+    },
+    {
+      "name": "B\u00c3\u00acnh H\u00c3\u00a0",
+      "timestamp": 1765269567
+    },
+    {
+      "name": "Hoang Anh Pham",
+      "timestamp": 1763733135
+    },
+    {
+      "name": "Nguyen Dac Tri",
+      "timestamp": 1762994961
+    },
+    {
+      "name": "\u00c4\u0090\u00e1\u00ba\u00b7ng M\u00e1\u00ba\u00a1nh D\u00c5\u00a9ng",
+      "timestamp": 1762521215
+    },
+    {
+      "name": "V\u00c6\u00b0\u00c6\u00a1ng Anh T\u00c3\u00ba",
+      "timestamp": 1762521213
+    },
+    {
+      "name": "Th\u00c3\u00a1i H\u00e1\u00ba\u00b1ng",
+      "timestamp": 1762521213
+    },
+    {
+      "name": "Th\u00c3\u00b4ng  Nguy\u00e1\u00bb\u0085n",
+      "timestamp": 1762358713
+    },
+    {
+      "name": "Ph\u00e1\u00ba\u00a1m \u00c4\u0090\u00e1\u00bb\u00a9c Ng\u00e1\u00bb\u008dc",
+      "timestamp": 1762357768
+    },
+    {
+      "name": "Qu\u00e1\u00bb\u00b3nh Tr\u00e1\u00ba\u00a7n",
+      "timestamp": 1761930995
+    },
+    {
+      "name": "Do Ky Son",
+      "timestamp": 1760142436
+    },
+    {
+      "name": "Tr\u00e1\u00ba\u00a7n Ho\u00c3\u00a0ng S\u00c6\u00a1n",
+      "timestamp": 1758832403
+    },
+    {
+      "name": "Chery Chery",
+      "timestamp": 1757676658
+    },
+    {
+      "name": "Trong Thang Mai",
+      "timestamp": 1757676654
+    },
+    {
+      "name": "Nguyen Manh Tan",
+      "timestamp": 1757676652
+    },
+    {
+      "name": "Thu Thu",
+      "timestamp": 1757655393
+    },
+    {
+      "name": "Tr\u00e1\u00bb\u008bnh Mai H\u00c6\u00b0\u00c6\u00a1ng",
+      "timestamp": 1754450293
+    },
+    {
+      "name": "C\u00c6\u00b0\u00e1\u00bb\u009dng Nguy\u00e1\u00bb\u0085n",
+      "timestamp": 1754216619
+    },
+    {
+      "name": "Ph\u00e1\u00ba\u00a1m H\u00c6\u00b0ng",
+      "timestamp": 1754124503
+    },
+    {
+      "name": "T\u00c3\u00b4 Qu\u00e1\u00bb\u00b3nh Mai",
+      "timestamp": 1754027369
+    },
+    {
+      "name": "Ho\u00c3\u00a0ng T\u00c3\u00b9ng",
+      "timestamp": 1753849074
+    },
+    {
+      "name": "Ph\u00e1\u00ba\u00a1m Qu\u00e1\u00bb\u0091c B\u00e1\u00ba\u00a3o",
+      "timestamp": 1753849063
+    },
+    {
+      "name": "V\u00c5\u00a9 Ng\u00e1\u00bb\u008dc Linh",
+      "timestamp": 1753849060
+    },
+    {
+      "name": "D\u00c6\u00b0\u00c6\u00a1ng Phong",
+      "timestamp": 1753849059
+    },
+    {
+      "name": "Thu Thu\u00e1\u00bb\u00b7",
+      "timestamp": 1753849056
+    },
+    {
+      "name": "Nhan Nguyen",
+      "timestamp": 1753841976
+    },
+    {
+      "name": "Ph\u00e1\u00ba\u00a1m Th\u00e1\u00bb\u008b Thi\u00e1\u00bb\u0081u",
+      "timestamp": 1753684065
+    },
+    {
+      "name": "Long \u00c4\u0090\u00e1\u00bb\u00a9c Nguy\u00e1\u00bb\u0085n",
+      "timestamp": 1753622343
+    },
+    {
+      "name": "L\u00c3\u00a2m Thanh T\u00c3\u00a0i",
+      "timestamp": 1753543688
+    },
+    {
+      "name": "V\u00c6\u00b0\u00c6\u00a1ng V\u00c4\u0083n Th\u00c3\u00a1i",
+      "timestamp": 1753244531
+    },
+    {
+      "name": "Qu\u00c3\u00bd Nguy\u00e1\u00bb\u0085n Minh",
+      "timestamp": 1753244471
+    },
+    {
+      "name": "C\u00c6\u00b0\u00e1\u00bb\u009dng V\u00c3\u00b5",
+      "timestamp": 1753244458
+    },
+    {
+      "name": "Hu\u00e1\u00bb\u00b3nh \u00c4\u0090\u00e1\u00bb\u0097 Thanh Tr\u00c3\u00bac",
+      "timestamp": 1752819391
+    },
+    {
+      "name": "Bui Thi Linh Chi",
+      "timestamp": 1752677769
+    },
+    {
+      "name": "D\u00c6\u00b0\u00c6\u00a1ng Ch\u00c3\u00a2u",
+      "timestamp": 1752139701
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n Thi\u00e1\u00bb\u0087n",
+      "timestamp": 1751974936
+    },
+    {
+      "name": "Trung Kien Dao",
+      "timestamp": 1751789373
+    },
+    {
+      "name": "Cao Anh Tuyet",
+      "timestamp": 1751708657
+    },
+    {
+      "name": "Qu\u00e1\u00bb\u0091c B\u00c3\u00acnh",
+      "timestamp": 1751698472
+    },
+    {
+      "name": "JB L\u00c3\u00aa C\u00c3\u00b4ng",
+      "timestamp": 1751643168
+    },
+    {
+      "name": "V\u00c5\u00a9 Ng\u00e1\u00bb\u008dc Chi\u00e1\u00ba\u00bfn",
+      "timestamp": 1750836558
+    },
+    {
+      "name": "Tr\u00e1\u00bb\u008bnh Qu\u00e1\u00bb\u0091c Vi\u00e1\u00bb\u0087t",
+      "timestamp": 1750393512
+    },
+    {
+      "name": "M\u00e1\u00ba\u00a1c L\u00c3\u00a2m T\u00c3\u00b9ng",
+      "timestamp": 1750133343
+    },
+    {
+      "name": "Quang \u00c4\u0090\u00e1\u00ba\u00a1i",
+      "timestamp": 1750044266
+    },
+    {
+      "name": "Nguy\u00c3\u00aan H\u00e1\u00bb\u0093ng Vietstarmax",
+      "timestamp": 1749884489
+    },
+    {
+      "name": "L\u00c3\u00aa Th\u00e1\u00ba\u00a3o",
+      "timestamp": 1749812171
+    },
+    {
+      "name": "\u00c4\u0090inh Quang H\u00c3\u00b2e",
+      "timestamp": 1749642926
+    },
+    {
+      "name": "Tran Dinh Doan",
+      "timestamp": 1749374236
+    },
+    {
+      "name": "Nam Ho\u00c3\u00a0i Nguy\u00e1\u00bb\u0085n",
+      "timestamp": 1749358032
+    },
+    {
+      "name": "Th\u00c3\u00b9y Linhh",
+      "timestamp": 1749358030
+    },
+    {
+      "name": "Ryu",
+      "timestamp": 1749358028
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n Kh\u00c3\u00a1nh Vinh",
+      "timestamp": 1749358019
+    },
+    {
+      "name": "Ho\u00c3\u00a0ng Phi Long",
+      "timestamp": 1749358011
+    },
+    {
+      "name": "T\u00e1\u00bb\u0091ng V\u00c3\u00a2n",
+      "timestamp": 1749358007
+    },
+    {
+      "name": "Tran Anh Tuan",
+      "timestamp": 1749358005
+    },
+    {
+      "name": "Tr\u00e1\u00ba\u00a7n V\u00c4\u0083n Thanh T\u00c3\u00b9ng",
+      "timestamp": 1749354987
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n Quy\u00c3\u00aan",
+      "timestamp": 1749288555
+    },
+    {
+      "name": "Hi\u00e1\u00bb\u0081n Xinh",
+      "timestamp": 1748969953
+    },
+    {
+      "name": "T\u00c3\u00a2m Nguy\u00e1\u00bb\u0085n",
+      "timestamp": 1748261707
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n Ti\u00e1\u00ba\u00bfn Thu\u00e1\u00ba\u00adt",
+      "timestamp": 1748261702
+    },
+    {
+      "name": "Xu\u00c3\u00a2n Tuy\u00e1\u00bb\u0081n",
+      "timestamp": 1748261693
+    },
+    {
+      "name": "\u00e1\u00ba\u00a8n Ka",
+      "timestamp": 1748261692
+    },
+    {
+      "name": "\u00c4\u0090\u00e1\u00ba\u00a1o Dev",
+      "timestamp": 1748261690
+    },
+    {
+      "name": "My H\u00c3\u00a0",
+      "timestamp": 1748261689
+    },
+    {
+      "name": "Tr\u00c6\u00b0\u00c6\u00a1ng K\u00e1\u00bb\u00b3 B\u00e1\u00ba\u00a3o",
+      "timestamp": 1748261681
+    },
+    {
+      "name": "Ho\u00c3\u00a0ng Thanh Ph\u00c3\u00ba",
+      "timestamp": 1748261680
+    },
+    {
+      "name": "\u00c4\u0090\u00c3\u00acnh T\u00e1\u00bb\u0089nh",
+      "timestamp": 1748261679
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n Ngh\u00c4\u00a9a",
+      "timestamp": 1747791950
+    },
+    {
+      "name": "Dzung Nguyen",
+      "timestamp": 1745923739
+    },
+    {
+      "name": "\u00c3\u0081nh Ng\u00e1\u00bb\u008dc",
+      "timestamp": 1745722032
+    },
+    {
+      "name": "Hoa Th\u00e1\u00bb\u008b Thanh Ph\u00c6\u00b0\u00c6\u00a1ng",
+      "timestamp": 1745660217
+    },
+    {
+      "name": "Ng\u00c3\u00b4 M\u00e1\u00ba\u00a1nh Nam",
+      "timestamp": 1745246299
+    },
+    {
+      "name": "H\u00c3\u00a1n Ng\u00e1\u00bb\u008dc \u00c3\u0081nh",
+      "timestamp": 1742911735
+    },
+    {
+      "name": "Tuan Anh Hoang",
+      "timestamp": 1742911733
+    },
+    {
+      "name": "L\u00c3\u00aa Th\u00e1\u00bb\u008b H\u00e1\u00bb\u0093ng Nhung",
+      "timestamp": 1742911731
+    },
+    {
+      "name": "Tr\u00c6\u00b0\u00c6\u00a1ng K\u00e1\u00bb\u00b3 B\u00e1\u00ba\u00a3o",
+      "timestamp": 1742698806
+    },
+    {
+      "name": "Anh Duy",
+      "timestamp": 1742623744
+    },
+    {
+      "name": "H\u00e1\u00ba\u00a1nh Ph\u00e1\u00ba\u00a1m",
+      "timestamp": 1742623712
+    },
+    {
+      "name": "Ph\u00e1\u00ba\u00a1m V\u00c4\u00a9nh Ph\u00c6\u00b0\u00e1\u00bb\u009bc",
+      "timestamp": 1742623700
+    },
+    {
+      "name": "Ho\u00c3\u00a0ng Tr",
+      "timestamp": 1742623659
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n Qu\u00c3\u00a2n",
+      "timestamp": 1742623656
+    },
+    {
+      "name": "Nguyen Ngoc Minh",
+      "timestamp": 1742623651
+    },
+    {
+      "name": "Nguyen Dat",
+      "timestamp": 1742438805
+    },
+    {
+      "name": "Dung Tr\u00e1\u00ba\u00a7n",
+      "timestamp": 1742378722
+    },
+    {
+      "name": "L\u00c3\u00aa H\u00e1\u00bb\u00afu Ph\u00c6\u00b0\u00e1\u00bb\u009bc",
+      "timestamp": 1742357860
+    },
+    {
+      "name": "Nga Duong",
+      "timestamp": 1741851753
+    }
+  ]
+}
